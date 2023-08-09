@@ -1,6 +1,7 @@
 package as
 
 func Add(a, b int) int {
+  /* hello */
   return a+b
 }
 
